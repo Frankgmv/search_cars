@@ -5,11 +5,11 @@ aprendiendo a filtrar los datos con array methods y funciones de alto nivel
 >[!Note]
 > ## Se aprendío array methods para hacer este pequeño proyecto
 
-## Quires verlo
+## Quieres verlo
 
-Para verlo solo abre tu terminal y ubicate en una directorio que quieres
+Para verlo solo abre tu terminal y ubicate en el directorio que quieras
 
-haz git clone 
+Haz git clone 
 
 ```ssh
   git clone https://github.com/Frankgmv/search_cars
